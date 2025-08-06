@@ -1,7 +1,7 @@
 # Time-Line-App---Data-Art-Task
 Stage-1 : static skeleton
 ->A <header> with logo and theme toggle
-->A <nav> or container for filters/placeholders (empty for now) 
+->An empty <nav> or container for filters/placeholders 
 ->A <section id="timeline"> where event markers will live 
 ->An empty <div id="modal"> for future pop‑ups
 ->Semantic tags for main content (<main>, <article>, <figure>, etc.)
